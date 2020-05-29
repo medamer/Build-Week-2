@@ -11,3 +11,4 @@ Link to colab notebook:
 https://colab.research.google.com/drive/1ixaNxfxWYBy682arOmh5snPnXCP_DfYL?usp=sharing
 
 link to Medium post:
+https://medium.com/@edamer66/predicting-alzheimers-using-machine-learning-bd88fe480d8d
