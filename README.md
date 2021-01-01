@@ -1,14 +1,13 @@
-# Build-Week-2
-Alzheimer's detection
+# Detecting Alzheimer's Using Machine Learning:
 
-Data:
-Longitudinal MRI Data in Nondemented and Demented Older Adults: This set consists of a longitudinal collection of 1968 subjects aged between 60 to 98. Each subject was scanned on two or more visits, separated by at least one year for a total of 2508 imaging sessions.
+![Welcome Image](https://github.com/medamer/Build-Week-2/blob/master/Images/alzheimers.png)
 
-Link to dataset:
-https://raw.githubusercontent.com/medamer/Datasets/master/oasis_longitudinal.csv
+This Project is about using Macine learning to detect Alzeimer's in early stages
 
-Link to colab notebook:
-https://colab.research.google.com/drive/1ixaNxfxWYBy682arOmh5snPnXCP_DfYL?usp=sharing
+* Started with the baseline to check how balanced is the data
+* Splited the dataset into Train, Validation and Test sets
+* Tryed Linear model (LogisticRegression) and Tree Based Model (RandomForestClassifier) to compare which model works best
+* Explained individual predictions with shapley value plots
+* Checked our results
 
-link to Medium post:
-https://medium.com/@edamer66/predicting-alzheimers-using-machine-learning-bd88fe480d8d
+[Link to Blogpost](https://edamer66.medium.com/predicting-alzheimers-using-machine-learning-bd88fe480d8d?sk=59462034e36db884ade424a480b02e6b)
