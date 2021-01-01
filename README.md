@@ -10,4 +10,6 @@ This Project is about using Macine learning to detect Alzeimer's in early stages
 * Explained individual predictions with shapley value plots
 * Checked our results
 
+![Results](https://github.com/medamer/Build-Week-2/blob/master/Images/results.png)
+
 [Link to Blogpost](https://edamer66.medium.com/predicting-alzheimers-using-machine-learning-bd88fe480d8d?sk=59462034e36db884ade424a480b02e6b)
