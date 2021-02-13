@@ -1,8 +1,8 @@
-# Detecting Alzheimer's Using Machine Learning:
+# Predicting Alzheimer's Using Machine Learning:
 
 ![Welcome Image](https://github.com/medamer/Build-Week-2/blob/master/Images/alzheimers.png)
 
-This Project is about using Macine learning to detect Alzeimer's in early stages
+This Project is about using Macine learning to predict Alzeimer's based on results of tests.
 
 * Started with the baseline to check how balanced is the data
 * Splited the dataset into Train, Validation and Test sets
