@@ -2,7 +2,7 @@
 
 ![Welcome Image](https://github.com/medamer/Build-Week-2/blob/master/Images/alzheimers.png)
 
-This Project is about using Macine learning to predict Alzheimer's based on results of tests.
+This Project is about using Macine learning to predict Alzheimer's based on tests results.
 
 * Started with the baseline to check how balanced is the data
 * Splited the dataset into Train, Validation and Test sets
